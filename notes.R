@@ -25,5 +25,5 @@ a
 # BP ----------------------------------------------------------------------
 
 summarydata<-list(stats=matrix(c(1,2,3,4,5),5,1), n=10)
-summarydata<-list(stats=matrix(c(1,1,1,4,5),5,1), n=10)
+summarydata<-list(stats=matrix(c(3.4,1,1,4,5),5,1), n=10)
 bxp(summarydata)
